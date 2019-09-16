@@ -10,5 +10,13 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "streams": [
+    {
+      "title": "sdfb",
+      "description": "sdfgh",
+      "userId": "107541518947418827079",
+      "id": 1
+    }
+  ]
 }
